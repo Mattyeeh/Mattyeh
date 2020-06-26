@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Jun 2020 19:40:32 at https://valencitoh.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://valencitoh.com/ -O1 "C:\Mis lugares Web\MAAAAAAAAAAAT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:41:11	Error: 	"Not Found" (404) at link https://valencitoh.com/drugs/assets/gif/bg.gif (from https://valencitoh.com/drugs/assets/css/main.css)
+19:41:14	Error: 	"Not Found" (404) at link https://valencitoh.com/s4mur41.pw/assets/img/bg/site-bg-img.html (from https://valencitoh.com/drugs/assets/css/theme_black_red.css)
+19:41:14	Error: 	"Not Found" (404) at link https://valencitoh.com/www.bplaced.net/gfx/bpt.gif (from https://valencitoh.com/drugs/assets/css/font-awesome.min.css)
+19:41:14	Error: 	"Not Found" (404) at link https://valencitoh.com/www.bplaced.net/gfx/efeat.png (from https://valencitoh.com/drugs/assets/css/font-awesome.min.css)
+19:41:14	Error: 	"Not Found" (404) at link https://valencitoh.com/www.bplaced.net/gfx/epr.png (from https://valencitoh.com/drugs/assets/css/font-awesome.min.css)
+19:41:14	Error: 	"Not Found" (404) at link https://valencitoh.com/www.bplaced.net/gfx/grad.png (from https://valencitoh.com/drugs/assets/css/font-awesome.min.css)
+19:41:14	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/000webhost/logo/d1cf5cdf/000webhost-logo-forum-33x33.png (from https://valencitoh.com/drugs/assets/fonts/glyphicons-halflings-regular.eot.html)
+19:41:14	Error: 	"Not Found" (404) at link https://raw.githubusercontent.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png (from https://valencitoh.com/drugs/assets/fonts/glyphicons-halflings-regular.eot.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 42 seconds : 45 links scanned, 36 files written (16301087 bytes overall) [15170924 bytes received at 361212 bytes/sec], 1539760 bytes transferred using HTTP compression in 39 files, ratio 24%, 4.1 requests per connection
+(8 errors, 0 warnings, 0 messages)
